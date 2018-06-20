@@ -1,5 +1,7 @@
 ﻿using System;
 
+//KGKG
+
 namespace CopiarExcel
 {
     public class beProducto
