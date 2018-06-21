@@ -4,9 +4,6 @@
 //SADFDSAH
 
 
-    /// <summary>
-    /// ///FADSFADF
-    /// </summary>
 
 namespace CopiarExcel
 {
