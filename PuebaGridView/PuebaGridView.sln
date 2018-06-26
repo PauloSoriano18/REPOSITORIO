@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuebaGridView", "PuebaGridView\PuebaGridView.csproj", "{A74A1370-67B7-43DF-8EA6-1C72452CEBB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLibreria", "MiLibreria\MiLibreria.csproj", "{A7045421-A558-40BB-89C0-3D606C8B5D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A74A1370-67B7-43DF-8EA6-1C72452CEBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A74A1370-67B7-43DF-8EA6-1C72452CEBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A74A1370-67B7-43DF-8EA6-1C72452CEBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7045421-A558-40BB-89C0-3D606C8B5D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7045421-A558-40BB-89C0-3D606C8B5D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7045421-A558-40BB-89C0-3D606C8B5D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7045421-A558-40BB-89C0-3D606C8B5D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
